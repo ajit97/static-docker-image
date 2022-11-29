@@ -15,5 +15,6 @@ deploy:
   bucket_name: "ajit-first-app-bucket"
   bucket_path: "docker"
 
+
   on:
     branch: main
